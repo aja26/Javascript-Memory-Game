@@ -57,6 +57,7 @@ h1, p{
 .menu{
     position: absolute;
     width: 100%;
+    padding: 2rem;
     background: rgba(68, 68, 68, 0.7);
     display: none;
 }
